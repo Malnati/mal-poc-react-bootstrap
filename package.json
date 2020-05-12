@@ -1,0 +1,33 @@
+{
+  "name": "mal-poc-react-bootstrap",
+  "version": "1.0.0",
+  "description": "A proof of concept for using React + Bootstrap.",
+  "main": "app.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malnati/mal-poc-react-bootstrap.git"
+  },
+  "author": "Ricardo Malanti & Alessandro Werneck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Malnati/mal-poc-react-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Malnati/mal-poc-react-bootstrap#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "bootstrap": "^4.5.0",
+    "react-bootstrap": "^1.0.1",
+    "victory": "^34.3.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
